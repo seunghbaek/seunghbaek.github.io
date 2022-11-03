@@ -15,7 +15,7 @@ author_profile: true
 **S.H. Baek**\*, J. Kanzaki\*, N. Planavksy, J. M. Lora, C. Reinhard, S. Zhang. Enhanced weathering potential on global croplands under a changing climate, in preparation. 
 
 **S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, submitted. 
-
+<br>
 
 # Peer Reviewed
 <br>
