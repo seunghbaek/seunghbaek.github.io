@@ -10,7 +10,7 @@ redirect_from:
 ---
 ---
 
-<p align="center"><b>S. Hun Baek (he/him)</b><br/>
+<p align="center"><b>S. Hun Baek</b><br/>
 Climate Scientist<br/>
 <br/>
 seunghun.baek [at] yale.edu</p>
