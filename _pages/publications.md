@@ -10,11 +10,13 @@ author_profile: true
 
 # In press or submitted
 <br>
+
 **S.H. Baek** and J.M. Lora. Dual mode modulations of northwestern European hydroclimate over the last millennium, in preparation.  
 
 **S.H. Baek**\*, J. Kanzaki\*, N. Planavksy, J. M. Lora, C. Reinhard, S. Zhang. Enhanced weathering potential on global croplands under a changing climate, in preparation. 
 
 **S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, submitted. 
+
 <br>
 
 # Peer Reviewed
