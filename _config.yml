@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S. Hun Baek"
+title                    : "Seung Hun Baek"
 title_separator          : "-"
-name                     : &name "Seung Hun Baek (Hun)"
+name                     : &name "Hun"
 description              : &description "personal description"
 url                      : https://seunghbaek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
