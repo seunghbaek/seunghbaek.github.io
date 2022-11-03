@@ -23,7 +23,7 @@ author_profile: true
 
 **S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases, Geophysical Research Letters, https://doi.org/10.1029/2022GL097794.
 
-Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, **S.H. Baek** (2022). Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe, Climate Dynamics,https://doi.org/10.1007/s00382-021-05977-5. 
+Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, **S.H. Baek** (2022). Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe, Climate Dynamics, https://doi.org/10.1007/s00382-021-05977-5. 
 
 **S.H. Baek**, Y. Kushnir, W.A. Robinson, J.M. Lora, D.E. Lee, M. Ting (2021). An Atmospheric Bridge Between the Subpolar and Tropical Atlantic Regions: A Perplexing Asymmetric Teleconnection, Geophysical Research Letters, https://doi.org/10.1029/2021GL096602
 
