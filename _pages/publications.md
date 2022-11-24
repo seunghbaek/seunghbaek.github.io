@@ -15,14 +15,15 @@ author_profile: true
 
 **S.H. Baek**\*, J. Kanzaki\*, N. Planavksy, J. M. Lora, C. Reinhard, S. Zhang. Enhanced weathering potential on global croplands under a changing climate, in preparation. 
 
-**S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, submitted. 
 
 <br>
 
 # Peer Reviewed
 <br>
 
-**S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases, Geophysical Research Letters, (https://doi.org/10.1029/2022GL097794).
+**S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, in press. 
+
+**S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases, Geophysical Research Letters, https://doi.org/10.1029/2022GL097794.
 
 Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook, **S.H. Baek** (2022). Changing hydroclimate dynamics and the 19th to 20th century wetting trend in the English Channel region of northwest Europe, Climate Dynamics, https://doi.org/10.1007/s00382-021-05977-5. 
 
