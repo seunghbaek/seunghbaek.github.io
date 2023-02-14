@@ -21,7 +21,7 @@ author_profile: true
 # Peer Reviewed
 <br>
 
-**S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, in press. 
+**S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, https://doi.org/10.1029/2022AV000834. 
 
 **S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases, Geophysical Research Letters, https://doi.org/10.1029/2022GL097794.
 
