@@ -13,9 +13,7 @@ author_profile: true
 
 J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmospheric rivers in CESM2 simulations of the Last Glacial Maximum, submitted.
 
-
-T.M. Hall, J.P. Kossin, T. Thompson,**S.H. Baek**, K.L. Drouin, D. Montagne. Probabilistic methods for projecting average recurrence intervals of coastal flooding with sea level rise, submitted.  ![image](https://user-images.githubusercontent.com/14235120/233792608-e149162c-72a1-45fa-9237-5d76a87c6777.png)
-
+T.M. Hall, J.P. Kossin, T. Thompson,**S.H. Baek**, K.L. Drouin, D. Montagne. Probabilistic methods for projecting average recurrence intervals of coastal flooding with sea level rise, submitted.
 
 **S.H. Baek**\*, Y. Kanzaki, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang. Impacts of climate on the global capacity for enhanced rock weathering on croplands, submitted.
 
