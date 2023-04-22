@@ -8,12 +8,16 @@ author_profile: true
 
 \* denotes joint first co-authorship
 
-# In press or submitted
+# Submitted
 <br>
 
-**S.H. Baek** and J.M. Lora. Dual mode modulations of northwestern European hydroclimate over the last millennium, in preparation.  
+J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmospheric rivers in CESM2 simulations of the Last Glacial Maximum, submitted.
 
-**S.H. Baek**\*, J. Kanzaki\*, N. Planavksy, J. M. Lora, C. Reinhard, S. Zhang. Enhanced weathering potential on global croplands under a changing climate, in preparation. 
+
+T.M. Hall, J.P. Kossin, T. Thompson,**S.H. Baek**, K.L. Drouin, D. Montagne. Probabilistic methods for projecting average recurrence intervals of coastal flooding with sea level rise, submitted.  ![image](https://user-images.githubusercontent.com/14235120/233792608-e149162c-72a1-45fa-9237-5d76a87c6777.png)
+
+
+**S.H. Baek**\*, Y. Kanzaki, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang. Impacts of climate on the global capacity for enhanced rock weathering on croplands, submitted.
 
 
 <br>
@@ -21,7 +25,7 @@ author_profile: true
 # Peer Reviewed
 <br>
 
-**S.H. Baek**, J.M. Battalio, J.M. Lora. Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, https://doi.org/10.1029/2022AV000834. 
+**S.H. Baek**, J.M. Battalio, J.M. Lora. (2023). Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, https://doi.org/10.1029/2022AV000834. 
 
 **S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases, Geophysical Research Letters, https://doi.org/10.1029/2022GL097794.
 
