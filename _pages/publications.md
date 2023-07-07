@@ -13,13 +13,14 @@ author_profile: true
 
 J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmospheric rivers in CESM2 simulations of the Last Glacial Maximum, submitted.
 
-**S.H. Baek**\*, Y. Kanzaki, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang. Impacts of climate on the global capacity for enhanced rock weathering on croplands, submitted.
 
 
 <br>
 
 # Peer Reviewed
 <br>
+
+**S.H. Baek**\*, Y. Kanzaki*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). Impacts of climate on the global capacity for enhanced rock weathering on croplands, Earths Future, in press. * = equal contribution
 
 **S.H. Baek**, J.M. Battalio, J.M. Lora. (2023). Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, https://doi.org/10.1029/2022AV000834. 
 
