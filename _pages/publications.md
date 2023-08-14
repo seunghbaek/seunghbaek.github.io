@@ -30,7 +30,7 @@ Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook
 
 **S.H. Baek**, Y. Kushnir, W.A. Robinson, J.M. Lora, D.E. Lee, M. Ting (2021). <a href="https://doi.org/10.1029/2021GL096602">An Atmospheric Bridge Between the Subpolar and Tropical Atlantic Regions: A Perplexing Asymmetric Teleconnection</a>, *Geophysical Research Letters*.
 
-**S.H. Baek** and J.M. Lora (2021). <a href="https://doi.org/10.1038/s41558-021-01166-8">Counterbalancing influences of aerosols and greenhouse gases on atmospheric rivers</a>, *Nature Climate Change*. <a href="https://www.nature.com/articles/s41558-021-01181-9"> *News & Views* piece here</a> <a href="https://news.yale.edu/2021/10/04/atmospheric-rivers-are-stable-now-change-way"> Yale Press Release here</a>
+**S.H. Baek** and J.M. Lora (2021). <a href="https://doi.org/10.1038/s41558-021-01166-8">Counterbalancing influences of aerosols and greenhouse gases on atmospheric rivers</a>, *Nature Climate Change*. <a href="https://www.nature.com/articles/s41558-021-01181-9"> *News & Views* piece here</a>. <a href="https://news.yale.edu/2021/10/04/atmospheric-rivers-are-stable-now-change-way"> Yale Press Release here</a>
 
 **Baek, S.H.**, J.E. Smerdon, B.I. Cook, A.P. Williams (2021). <a href="https://doi.org/10.1175/JCLI-D-20-0365.1">US Pacific Coastal Droughts are Predominantly Driven by Internal Atmospheric Variability</a>, *Journal of Climate*.
 
