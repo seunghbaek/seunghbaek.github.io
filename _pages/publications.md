@@ -20,7 +20,7 @@ J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmo
 # Peer Reviewed
 <br>
 
-**S.H. Baek**\*, Y. Kanzaki*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). Impacts of climate on the global capacity for enhanced rock weathering on croplands, Earths Future, in press. * = equal contribution
+**S.H. Baek**\*, Y. Kanzaki*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). Impacts of climate on the global capacity for enhanced rock weathering on croplands, Earths Future, https://doi.org/10.1029/2023EF003698. * = equal contribution
 
 **S.H. Baek**, J.M. Battalio, J.M. Lora. (2023). Atmospheric river variability over the last millennium driven by annular modes, AGU Advances, https://doi.org/10.1029/2022AV000834. 
 
