@@ -20,9 +20,9 @@ J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmo
 # Peer Reviewed
 <br>
 
-**S.H. Baek**\*, Y. Kanzaki\*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). <a href="http://doi.org/10.1029/2023EF003698"> Impacts of climate on the global capacity for enhanced rock weathering on croplands</a>, *Earths Future*. * = equal contribution.
+**S.H. Baek**\*, Y. Kanzaki\*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). <a href="http://doi.org/10.1029/2023EF003698"> Impacts of climate on the global capacity for enhanced rock weathering on croplands</a>, *Earths Future*. * = equal contribution. <a href="https://news.agu.org/press-release/planting-rocks-in-farms-along-with-emissions-reductions-could-help-meet-key-ipcc-carbon-removal-goal/"> *AGU Press Release* here</a>
 
-**S.H. Baek**, J.M. Battalio, J.M. Lora. (2023).  <a href="https://doi.org/10.1029/2022AV000834">Atmospheric river variability over the last millennium driven by annular modes</a>, *AGU Advances*.
+**S.H. Baek**, J.M. Battalio, J.M. Lora. (2023).  <a href="https://doi.org/10.1029/2022AV000834">Atmospheric river variability over the last millennium driven by annular modes</a>, *AGU Advances*. <a href="https://eos.org/editor-highlights/how-do-atmospheric-rivers-respond-to-extratropical-variability"> *Eos Editor's Highlight* here</a>
 
 **S.H. Baek**, Y. Kushnir, M. Ting, J.E. Smerdon, J.M. Lora (2022). <a href="https://doi.org/10.1029/2022GL097794">Regional Signatures of Forced North Atlantic SST Variability: A Limited Role for Aerosols and Greenhouse Gases</a>, *Geophysical Research Letters*.
 
@@ -30,7 +30,7 @@ Scholz, S.R., R. Seager, M. Ting, Y. Kushnir, J.E. Smerdon, B.I. Cook, E.R. Cook
 
 **S.H. Baek**, Y. Kushnir, W.A. Robinson, J.M. Lora, D.E. Lee, M. Ting (2021). <a href="https://doi.org/10.1029/2021GL096602">An Atmospheric Bridge Between the Subpolar and Tropical Atlantic Regions: A Perplexing Asymmetric Teleconnection</a>, *Geophysical Research Letters*.
 
-**S.H. Baek** and J.M. Lora (2021). <a href="https://doi.org/10.1038/s41558-021-01166-8">Counterbalancing influences of aerosols and greenhouse gases on atmospheric rivers</a>, *Nature Climate Change*.
+**S.H. Baek** and J.M. Lora (2021). <a href="https://doi.org/10.1038/s41558-021-01166-8">Counterbalancing influences of aerosols and greenhouse gases on atmospheric rivers</a>, *Nature Climate Change*. <a href="https://www.nature.com/articles/s41558-021-01181-9"> *News & Views* piece here</a> <a href="https://news.yale.edu/2021/10/04/atmospheric-rivers-are-stable-now-change-way"> Yale Press Release here</a>
 
 **Baek, S.H.**, J.E. Smerdon, B.I. Cook, A.P. Williams (2021). <a href="https://doi.org/10.1175/JCLI-D-20-0365.1">US Pacific Coastal Droughts are Predominantly Driven by Internal Atmospheric Variability</a>, *Journal of Climate*.
 
