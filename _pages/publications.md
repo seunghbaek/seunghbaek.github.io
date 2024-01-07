@@ -11,7 +11,6 @@ author_profile: true
 # Submitted
 <br>
 
-J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmospheric rivers in CESM2 simulations of the Last Glacial Maximum, submitted.
 
 
 
@@ -20,7 +19,9 @@ J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek**. The hydrologic cycle and atmo
 # Peer Reviewed
 <br>
 
-**S.H. Baek**\*, Y. Kanzaki\*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). <a href="http://doi.org/10.1029/2023EF003698"> Impacts of climate on the global capacity for enhanced rock weathering on croplands</a>, *Earths Future*. * = equal contribution. <a href="https://news.agu.org/press-release/planting-rocks-in-farms-along-with-emissions-reductions-could-help-meet-key-ipcc-carbon-removal-goal/"> *AGU Press Release* here</a>
+J.M. Lora, C.B. Skinner, W.D. Rush, **S.H. Baek** (2023). <a href="https://doi.org/10.1029/2023GL104805"> The hydrologic cycle and atmospheric rivers in CESM2 simulations of the Last Glacial Maximum</a>, *Geophysical Research Letters*.
+
+**S.H. Baek**\*, Y. Kanzaki\*, J.M. Lora, N. Planavksy, C. Reinhard, S. Zhang (2023). <a href="http://doi.org/10.1029/2023EF003698"> Impacts of climate on the global capacity for enhanced rock weathering on croplands</a>, *Earth's Future*. * = equal contribution. <a href="https://news.agu.org/press-release/planting-rocks-in-farms-along-with-emissions-reductions-could-help-meet-key-ipcc-carbon-removal-goal/"> *AGU Press Release* here</a>
 
 **S.H. Baek**, J.M. Battalio, J.M. Lora. (2023).  <a href="https://doi.org/10.1029/2022AV000834">Atmospheric river variability over the last millennium driven by annular modes</a>, *AGU Advances*. <a href="https://eos.org/editor-highlights/how-do-atmospheric-rivers-respond-to-extratropical-variability"> *Eos Editor's Highlight* here</a>
 
