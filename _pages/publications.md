@@ -13,10 +13,10 @@ author_profile: true
 
 **S.H. Baek**, E.E. McClenny, P.A. Ullrich. <a> Response of atmospheric river width and
 intensity to aquaplanet warming: A detection algorithm- and background moistureindependent
-approach</a> *Journal of Geophysical Research - Atmospheres, in review*
+approach.</a> *Journal of Geophysical Research - Atmospheres, in review*
 
 **S.H. Baek**, J.M. Lora, C.B. Skinner, M. Fu, J. Zhu. <a> Atmospheric and oceanic energetics
-during North Atlantic freshening events</a> *Climate Dynamics, in review*
+during North Atlantic freshening events.</a> *Climate Dynamics, in review*
 
 
 <br>
