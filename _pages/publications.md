@@ -10,6 +10,7 @@ author_profile: true
 
 # Submitted
 <br>
+
 **S.H. Baek**, E.E. McClenny, P.A. Ullrich. <a> Response of atmospheric river width and
 intensity to aquaplanet warming: A detection algorithm- and background moistureindependent
 approach</a> *Journal of Geophysical Research - Atmospheres, in review*
