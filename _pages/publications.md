@@ -18,6 +18,7 @@ author_profile: true
 
 # Peer Reviewed
 <br>
+
 **S.H. Baek**, J.M. Lora, C.B. Skinner, M. Fu, J. Zhu (2025). <a href="https://doi.org/10.1007/s00382-025-07761-1"> Atmospheric and oceanic energetics
 during North Atlantic freshening events.</a> *Climate Dynamics*
 
