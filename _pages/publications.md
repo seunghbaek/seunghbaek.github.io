@@ -22,7 +22,7 @@ author_profile: true
 **S.H. Baek**, J.M. Lora, C.B. Skinner, M. Fu, J. Zhu (2025). <a href="https://doi.org/10.1007/s00382-025-07761-1"> Atmospheric and oceanic energetics
 during North Atlantic freshening events.</a> *Climate Dynamics*
 
-**S.H. Baek**, E.E. McClenny, P.A. Ullrich (2025). <a href ="https://doi.org/10.1029/2025JD043367> Response of atmospheric river width and intensity to aquaplanet warming: A detection algorithm- and background moistureindependent approach.</a> *Journal of Geophysical Research - Atmospheres*
+**S.H. Baek**, E.E. McClenny, P.A. Ullrich (2025). <a href ="https://doi.org/10.1029/2025JD043367"> Response of atmospheric river width and intensity to aquaplanet warming: A detection algorithm- and background moistureindependent approach.</a> *Journal of Geophysical Research - Atmospheres*
 
 **S.H. Baek**, P.A. Ullrich, B. Dong, J. Lee (2024). <a href="https://doi.org/10.5194/gmd-17-8665-2024"> Evaluating downscaling with expected
 hydroclimatic co-variances</a>, *Geoscientific Model Development*. *Selected as Editor's Highlight paper*.
